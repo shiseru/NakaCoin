@@ -1,6 +1,6 @@
 Ethereum ERC20 token demo- NakaCoin
 
-##Overview
+## Overview
 create ERC20 Token using Truffle and zeppelin-solidity
 
 ## Licence
